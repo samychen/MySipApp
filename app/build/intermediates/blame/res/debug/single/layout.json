@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MySipApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MySipApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MySipApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_add_buddy.xml",
+        "source": "E:\\MySipApp\\app\\src\\main\\res\\layout\\dlg_add_buddy.xml"
+    },
+    {
+        "merged": "E:\\MySipApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
+        "source": "E:\\MySipApp\\app\\src\\main\\res\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "E:\\MySipApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_account_config.xml",
+        "source": "E:\\MySipApp\\app\\src\\main\\res\\layout\\dlg_account_config.xml"
+    }
+]

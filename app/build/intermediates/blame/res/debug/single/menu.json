@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MySipApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\MySipApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\MySipApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call.xml",
+        "source": "E:\\MySipApp\\app\\src\\main\\res\\menu\\call.xml"
+    }
+]
